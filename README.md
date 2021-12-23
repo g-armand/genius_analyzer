@@ -1,4 +1,4 @@
-# genuis_analyzer
+# genius_analyzer
 
 This project aims to gather all lyrics from artists from genius' website.
 This is a student project whose only aims are to gather experience, no commercial uses are intended here.
